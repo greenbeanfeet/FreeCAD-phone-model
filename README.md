@@ -10,7 +10,7 @@ I built this to learn about 3D modelling, design iteration and to learn to use v
 ## 🗓️ Project Milestones
 
 - **v1** - I made a model of a phone with a pinhole camera and made the edges red, and the rear black. The back camera does not have the cameras modelled, but rather just the base of them, with the camera section slightly raised to indicate where they are located
+- **v2** - Added an extruded phone stand
 
 ## 🚧 Work in Progress
-Begun designing a phone stand. Initial Sketch has been created - extrusion coming soon.
-(Screenshots of sketch have been added)
+No active development in progress
